@@ -2,3 +2,5 @@
 data/
 Test_DBSCAN/
 *.html
+utils/__pycache__/
+configs/__pycache__/
